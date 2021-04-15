@@ -1,5 +1,5 @@
 
-/* kemerios*/
+/* by kemerios*/
 
 #include <stdio.h>
 #include <string.h>
