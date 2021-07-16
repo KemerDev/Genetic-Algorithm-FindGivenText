@@ -1,5 +1,5 @@
 
-/* by kemerios*/
+/* by Kemeridis */
 
 #include <stdio.h>
 #include <string.h>
